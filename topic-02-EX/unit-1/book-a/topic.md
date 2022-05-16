@@ -2,12 +2,12 @@
 
 icon: 
 
-  type: emojione:person-biking
+  type: flat-color-icons:data-configuration
 
 
 
 ---
 
-# Developer Experience
+# Setup
 
-The Tutors Open Source Components & Services
+Create and publish a Tutors course
